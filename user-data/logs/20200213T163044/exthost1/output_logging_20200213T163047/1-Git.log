@@ -1,0 +1,8 @@
+正在查找 Git: C:\Program Files\Git\cmd\git.exe
+正在查找 Git: C:\Program Files (x86)\Git\cmd\git.exe
+正在查找 Git: C:\Program Files\Git\cmd\git.exe
+正在查找 Git: C:\Users\LoveXXM\AppData\Local\Programs\Git\cmd\git.exe
+正在查找 Git: D:\Software\Git\cmd\git.exe
+将使用位于 D:\Software\Git\cmd\git.exe 的 Git 2.22.0.windows.1
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git

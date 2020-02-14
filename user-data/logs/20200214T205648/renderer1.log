@@ -1,0 +1,13 @@
+[2020-02-14 20:57:05.964] [renderer1] [error] 没有打开任何工作区，因此无法写入 工作区设置。请先打开一个工作区，然后重试。: Error: 没有打开任何工作区，因此无法写入 工作区设置。请先打开一个工作区，然后重试。
+    at k.reject (file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:4735:465)
+    at k.resolveAndValidate (file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:4738:482)
+    at k.doWriteConfiguration (file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:4732:722)
+    at Object.factory (file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:4732:498)
+    at u.consume (file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:149:609)
+    at file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:149:424
+    at new Promise (<anonymous>)
+    at u.queue (file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:149:348)
+    at k.writeConfiguration (file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:4732:483)
+    at C.writeConfigurationValue (file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:4756:785)
+    at file:///D:/小工具/VSCode/resources/app/out/vs/workbench/workbench.desktop.main.js:4746:147
+    at processTicksAndRejections (internal/process/task_queues.js:89:5)

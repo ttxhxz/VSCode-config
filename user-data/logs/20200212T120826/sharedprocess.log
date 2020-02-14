@@ -1,0 +1,9 @@
+[2020-02-12 12:08:30.122] [sharedprocess] [info] main {"machineId":"9ea1747c828631adb4a048f085ae99ff90962e5724165368b6fb47eece668f50","windowId":2}
+[2020-02-12 12:08:32.892] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-02-12 12:08:34.710] [sharedprocess] [info] Downloaded extension: ms-python.python c:\Users\LoveXXM\AppData\Local\Temp\d26e23b0-cc39-4076-8a9b-f4283a4181df
+[2020-02-12 12:08:39.803] [sharedprocess] [info] Extracted extension to D:\小工具\VSCode-win32-x64-1.41.1\data\extensions\.ms-python.python-2020.2.62710: ms-python.python
+[2020-02-12 12:08:39.805] [sharedprocess] [info] Renamed to D:\小工具\VSCode-win32-x64-1.41.1\data\extensions\ms-python.python-2020.2.62710
+[2020-02-12 12:08:39.809] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-02-12 12:08:39.820] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-02-12 12:09:10.133] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-02-12 12:09:10.135] [sharedprocess] [info] Skipping directory 8c09167270f5c502487c6b13bba3b37d.zh-cn. Language pack still in use.

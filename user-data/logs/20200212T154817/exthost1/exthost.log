@@ -1,0 +1,20 @@
+[2020-02-12 15:48:18.377] [exthost] [info] extension host started
+[2020-02-12 15:48:18.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2020-02-12 15:48:18.417] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/小工具/VSCode-win32-x64-1.41.1/resources/app/extensions/extension-editing/dist/extension
+[2020-02-12 15:48:18.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2020-02-12 15:48:18.422] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/小工具/VSCode-win32-x64-1.41.1/resources/app/extensions/markdown-language-features/dist/extension
+[2020-02-12 15:48:18.437] [exthost] [info] ExtensionService#_doActivateExtension shd101wyy.markdown-preview-enhanced {"startup":false,"extensionId":{"value":"shd101wyy.markdown-preview-enhanced","_lower":"shd101wyy.markdown-preview-enhanced"},"activationEvent":"onLanguage:markdown"}
+[2020-02-12 15:48:18.437] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/小工具/VSCode-win32-x64-1.41.1/data/extensions/shd101wyy.markdown-preview-enhanced-0.5.2/out/src/extension
+[2020-02-12 15:48:19.062] [exthost] [info] ExtensionService#_doActivateExtension yzhang.markdown-all-in-one {"startup":false,"extensionId":{"value":"yzhang.markdown-all-in-one","_lower":"yzhang.markdown-all-in-one"},"activationEvent":"onLanguage:markdown"}
+[2020-02-12 15:48:19.062] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/小工具/VSCode-win32-x64-1.41.1/data/extensions/yzhang.markdown-all-in-one-2.7.0/dist/extension
+[2020-02-12 15:48:19.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-12 15:48:19.073] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/小工具/VSCode-win32-x64-1.41.1/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-02-12 15:48:19.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-12 15:48:19.075] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/小工具/VSCode-win32-x64-1.41.1/resources/app/extensions/emmet/dist/extension
+[2020-02-12 15:48:19.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-02-12 15:48:19.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/小工具/VSCode-win32-x64-1.41.1/resources/app/extensions/git/dist/main
+[2020-02-12 15:48:19.092] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-12 15:48:19.092] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/小工具/VSCode-win32-x64-1.41.1/resources/app/extensions/merge-conflict/dist/extension
+[2020-02-12 15:48:19.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-02-12 15:48:19.094] [exthost] [info] ExtensionService#loadCommonJSModule file:///d:/小工具/VSCode-win32-x64-1.41.1/resources/app/extensions/search-result/dist/extension.js
+[2020-02-12 15:48:19.107] [exthost] [info] eager extensions activated

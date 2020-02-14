@@ -1,0 +1,4 @@
+[2020-02-14 15:00:53.224] [sharedprocess] [info] main {"machineId":"9ea1747c828631adb4a048f085ae99ff90962e5724165368b6fb47eece668f50","windowId":2}
+[2020-02-14 15:00:53.552] [sharedprocess] [info] Deleted from disk ms-python.python d:\小工具\VSCode-win32-x64-1.41.1\data\extensions\ms-python.python-2020.2.62710
+[2020-02-14 15:01:33.235] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-02-14 15:01:33.237] [sharedprocess] [info] Skipping directory 8c09167270f5c502487c6b13bba3b37d.zh-cn. Language pack still in use.

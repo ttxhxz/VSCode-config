@@ -1,0 +1,9 @@
+[2020-02-14 20:33:31.214] [sharedprocess] [info] main {"machineId":"9ea1747c828631adb4a048f085ae99ff90962e5724165368b6fb47eece668f50","windowId":2}
+[2020-02-14 20:33:32.606] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-zh-hans
+[2020-02-14 20:33:33.079] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-zh-hans c:\Users\LoveXXM\AppData\Local\Temp\bdca29bf-8c66-43ea-9295-df923ac308a8
+[2020-02-14 20:33:33.249] [sharedprocess] [info] Extracted extension to D:\小工具\VSCode\data\extensions\.ms-ceintl.vscode-language-pack-zh-hans-1.42.2: ms-ceintl.vscode-language-pack-zh-hans
+[2020-02-14 20:33:33.250] [sharedprocess] [info] Renamed to D:\小工具\VSCode\data\extensions\ms-ceintl.vscode-language-pack-zh-hans-1.42.2
+[2020-02-14 20:33:33.251] [sharedprocess] [info] Installation completed. ms-ceintl.vscode-language-pack-zh-hans
+[2020-02-14 20:33:33.257] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-zh-hans
+[2020-02-14 20:34:11.229] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-02-14 20:34:11.231] [sharedprocess] [info] Removing unused language pack: 8c09167270f5c502487c6b13bba3b37d.zh-cn

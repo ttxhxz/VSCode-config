@@ -1,0 +1,25 @@
+正在查找 Git: C:\Program Files\Git\cmd\git.exe
+正在查找 Git: C:\Program Files (x86)\Git\cmd\git.exe
+正在查找 Git: C:\Program Files\Git\cmd\git.exe
+正在查找 Git: C:\Users\LoveXXM\AppData\Local\Programs\Git\cmd\git.exe
+正在查找 Git: D:\Software\Git\cmd\git.exe
+将使用位于 D:\Software\Git\cmd\git.exe 的 Git 2.22.0.windows.1
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: d:\小工具\VSCode\data
+> git status -z -u
+> git show :README.md
+> git ls-files --stage -- D:\小工具\VSCode\data\README.md
+> git cat-file -s 3e82118474cf100134b7a2f7311b522f7805740c
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :README.md
+> git ls-files --stage -- D:\小工具\VSCode\data\README.md
+> git cat-file -s 3e82118474cf100134b7a2f7311b522f7805740c
+> git check-ignore -v -z --stdin
